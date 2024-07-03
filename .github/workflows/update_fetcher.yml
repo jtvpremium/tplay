@@ -30,13 +30,13 @@ jobs:
       run: |
         git config --global user.name 'jtvpremium'
         git config --global user.email 'jtvpremium@outlook.com'
-        CHANGES=$(git status --porcelain)
-        if [ -n "$CHANGES" ]; then
+        if [ -n "$(git status --porcelain)" ]; then
           git add fetcher.json
           git commit -m 'Update fetcher.json'
           git pull --rebase origin master
           git push
         else
           echo "No changes to commit"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
