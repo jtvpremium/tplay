@@ -30,7 +30,8 @@ jobs:
       run: |
         git config --global user.name 'jtvpremium'
         git config --global user.email 'jtvpremium@outlook.com'
-        if [ -n "$(git status --porcelain)" ]; then
+        CHANGES=$(git status --porcelain)
+        if [ -n "$CHANGES" ]; then
           git add fetcher.json
           git commit -m 'Update fetcher.json'
           git pull --rebase origin master
