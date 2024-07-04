@@ -1,6 +1,6 @@
 {
   "total_channels": 703,
-  "last_update": "2024-07-04T20:09:03.945732+00:00",
+  "last_update": "2024-07-04T20:24:26.459107+00:00",
   "channels": [
     {
       "id": "840",
@@ -563,27 +563,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "60d38314205b500aab8f85a9aab74531:a57d6c1e37607db4ef09a0e8f16eea4e",
+          "hex": "eb7d74e070ee55db9f7861d6e187198b:bab8a635acb0b2f1b98f3341738fb678",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "pX1sHjdgfbTvCaDo8W7qTg",
-                "kid": "YNODFCBbUAqrj4WpqrdFMQ"
+                "k": "urimNaywsvG5jzNBc4+2eA",
+                "kid": "63104HDuVdufeGHW4YcZiw"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGDTgxQgW1AKq4+Fqaq3RTE4kPWbtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOt9dOBw7lXbn3hh1uGHGYs4mIOctAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fcf90127045f5edabc5d94a932f5c6fe:a57d6c1e37607db4ef09a0e8f16eea4e",
+          "hex": "fcf90127045f5edabc5d94a932f5c6fe:bab8a635acb0b2f1b98f3341738fb678",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "pX1sHjdgfbTvCaDo8W7qTg",
+                "k": "urimNaywsvG5jzNBc4+2eA",
                 "kid": "/PkBJwRfXtq8XZSpMvXG/g"
               }
             ],
@@ -14819,32 +14819,14 @@
       ],
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png",
       "manifest_url": "https://delta14tatasky.akamaized.net/out/i/7253194.mpd",
-      "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001159",
-      "manifest_headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-      },
+      "license_url": null,
+      "manifest_headers": null,
       "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": true,
-      "is_kid_in_manifest": true,
+      "is_drm_protected": false,
+      "is_kid_in_manifest": false,
       "is_hmac_required": false,
-      "is_clearkeys_extracted": true,
-      "clearkeys": [
-        {
-          "source": "media_segment",
-          "hex": "ffdec1edfce0432ba38dc523a1ccfd99:dfb153ae7851be2daa7e983c9c6553eb",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "37FTrnhRvi2qfpg8nGVT6w",
-                "kid": "/97B7fzgQyujjcUjocz9mQ"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAQXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACEIARIQ/97B7fzgQyujjcUjocz9mSIJNDAwMDAxMTU5OAA="
-        }
-      ]
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
     },
     {
       "id": "515",
@@ -22000,18 +21982,18 @@
         },
         {
           "source": "initialization_segment",
-          "hex": "312ca8f1cbb4548190d2cb9c44eb05cc:e1000a60e201be91077d6ba101000466",
+          "hex": "6cfa29f4188355e583dc814ae86e3a33:e1000a60e201be91077d6ba101000466",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
                 "k": "4QAKYOIBvpEHfWuhAQAEZg",
-                "kid": "MSyo8cu0VIGQ0sucROsFzA"
+                "kid": "bPop9BiDVeWD3IFK6G46Mw"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDEsqPHLtFSBkNLLnETrBcw4sNWXtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGz6KfQYg1Xlg9yBSuhuOjM4sI2ZswY="
         }
       ]
     },
