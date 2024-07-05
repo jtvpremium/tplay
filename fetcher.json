@@ -1,6 +1,6 @@
 {
   "total_channels": 707,
-  "last_update": "2024-07-05T09:28:04.812675+00:00",
+  "last_update": "2024-07-05T09:59:34.404298+00:00",
   "channels": [
     {
       "id": "840",
@@ -401,27 +401,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "979cb37b8f1859ad81bcde4c7b89f356:29166fb4996b0f6733fc6a25f70a0aaf",
+          "hex": "85d0543599bc571eafe54ab4016fb336:ded5d713cac1016da8ed7765440e3998",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "KRZvtJlrD2cz/Gol9woKrw",
-                "kid": "l5yze48YWa2BvN5Me4nzVg"
+                "k": "3tXXE8rBAW2o7XdlRA45mA",
+                "kid": "hdBUNZm8Vx6v5Uq0AW+zNg"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJecs3uPGFmtgbzeTHuJ81Y4iN6etAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIXQVDWZvFcer+VKtAFvszY4mPqetAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "1d25996f062d53d7a064a8d217ba9b48:29166fb4996b0f6733fc6a25f70a0aaf",
+          "hex": "1d25996f062d53d7a064a8d217ba9b48:ded5d713cac1016da8ed7765440e3998",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "KRZvtJlrD2cz/Gol9woKrw",
+                "k": "3tXXE8rBAW2o7XdlRA45mA",
                 "kid": "HSWZbwYtU9egZKjSF7qbSA"
               }
             ],
@@ -497,47 +497,14 @@
       ],
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",
       "manifest_url": "https://bpweb7.akamaized-staging.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
-      "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000047",
-      "manifest_headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-      },
+      "license_url": null,
+      "manifest_headers": null,
       "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": true,
+      "is_drm_protected": false,
       "is_kid_in_manifest": false,
       "is_hmac_required": true,
-      "is_clearkeys_extracted": true,
-      "clearkeys": [
-        {
-          "source": "media_segment",
-          "hex": "396fba6f58c2519085590f30de3a2864:39a4e76dcc9c27934a3db999382d9097",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "OaTnbcycJ5NKPbmZOC2Qlw",
-                "kid": "OW+6b1jCUZCFWQ8w3jooZA"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDlvum9YwlGQhVkPMN46KGQ4tOCetAY="
-        },
-        {
-          "source": "initialization_segment",
-          "hex": "d11d27b072d05393a30d6df950a063ec:39a4e76dcc9c27934a3db999382d9097",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "OaTnbcycJ5NKPbmZOC2Qlw",
-                "kid": "0R0nsHLQU5OjDW35UKBj7A"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENEdJ7By0FOTow1t+VCgY+w4tJqUtAY="
-        }
-      ]
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
     },
     {
       "id": "559",
@@ -563,27 +530,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "6b450df27daa5733b6b2beeaf851cb0e:6bd2d45f50c44ab9d86920cb6cabbcb5",
+          "hex": "0a4f35eea10c5fe7bce717f2840f662e:8244bd455ff571ab67e728113db5045f",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "a9LUX1DESrnYaSDLbKu8tQ",
-                "kid": "a0UN8n2qVzO2sr7q+FHLDg"
+                "k": "gkS9RV/1catn5ygRPbUEXw",
+                "kid": "Ck817qEMX+e85xfyhA9mLg"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGtFDfJ9qlcztrK+6vhRyw446PCetAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEApPNe6hDF/nvOcX8oQPZi448P6etAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fcf90127045f5edabc5d94a932f5c6fe:6bd2d45f50c44ab9d86920cb6cabbcb5",
+          "hex": "fcf90127045f5edabc5d94a932f5c6fe:8244bd455ff571ab67e728113db5045f",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "a9LUX1DESrnYaSDLbKu8tQ",
+                "k": "gkS9RV/1catn5ygRPbUEXw",
                 "kid": "/PkBJwRfXtq8XZSpMvXG/g"
               }
             ],
@@ -793,18 +760,18 @@
         },
         {
           "source": "initialization_segment",
-          "hex": "2342753bf6f15002ac06026a21e903f2:241647e85bd4545c8d9b5ca3dcb8c8ba",
+          "hex": "25ea010128de5c99961e37c3dc4feafd:241647e85bd4545c8d9b5ca3dcb8c8ba",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
                 "k": "JBZH6FvUVFyNm1yj3LjIug",
-                "kid": "I0J1O/bxUAKsBgJqIekD8g"
+                "kid": "JeoBASjeXJmWHjfD3E/q/Q"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAMnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABISECNCdTv28VACrAYCaiHpA/I="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECXqAQEo3lyZlh43w9xP6v04qLGWtAY="
         }
       ]
     },
@@ -1554,18 +1521,18 @@
         },
         {
           "source": "initialization_segment",
-          "hex": "1a137991ea9751308bd206552029e596:7b9833aa99da86ca84b593452d3e99d1",
+          "hex": "9978dc83fa8f5b688d8a341c62246bd5:7b9833aa99da86ca84b593452d3e99d1",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
                 "k": "e5gzqpnahsqEtZNFLT6Z0Q",
-                "kid": "GhN5keqXUTCL0gZVICnllg"
+                "kid": "mXjcg/qPW2iNijQcYiRr1Q"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBoTeZHql1Ewi9IGVSAp5ZY4gISZswY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJl43IP6j1tojYo0HGIka9U4gO+ctAY="
         }
       ]
     },
@@ -1714,26 +1681,6 @@
       ]
     },
     {
-      "id": "874",
-      "name": "Deployment channel 19.0",
-      "genres": [
-        "Music & Audio"
-      ],
-      "languages": [
-        "Hindi"
-      ],
-      "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ch7003_Thumbnail-v1/ch7003_Thumbnail.png",
-      "manifest_url": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976503.mpd",
-      "license_url": null,
-      "manifest_headers": null,
-      "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": false,
-      "is_kid_in_manifest": false,
-      "is_hmac_required": false,
-      "is_clearkeys_extracted": false,
-      "clearkeys": null
-    },
-    {
       "id": "888",
       "name": "Ishara",
       "genres": [
@@ -1785,6 +1732,26 @@
           "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEILMpQyRyVBptBZWqqplCSk42IiZswY="
         }
       ]
+    },
+    {
+      "id": "874",
+      "name": "Deployment channel 19.0",
+      "genres": [
+        "Music & Audio"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ch7003_Thumbnail-v1/ch7003_Thumbnail.png",
+      "manifest_url": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976503.mpd",
+      "license_url": null,
+      "manifest_headers": null,
+      "manifest_type": "MPEG-DASH|DASH|MPD",
+      "is_drm_protected": false,
+      "is_kid_in_manifest": false,
+      "is_hmac_required": false,
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
     },
     {
       "id": "1045",
@@ -7609,27 +7576,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "50aa981e05485eff80faf373222bd590:fe4f8065e65ca6117fb4c87ff14cd48e",
+          "hex": "ca0141e48c895b87b6305435e46a1e14:4af3ad42adae320e01a7a1d188643668",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "/k+AZeZcphF/tMh/8UzUjg",
-                "kid": "UKqYHgVIXv+A+vNzIivVkA"
+                "k": "SvOtQq2uMg4Bp6HRiGQ2aA",
+                "kid": "ygFB5IyJW4e2MFQ15GoeFA"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFCqmB4FSF7/gPrzcyIr1ZA4kKGetAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMoBQeSMiVuHtjBUNeRqHhQ4wPWetAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "4eaae9169a9759c1bded8350304f43d1:fe4f8065e65ca6117fb4c87ff14cd48e",
+          "hex": "4eaae9169a9759c1bded8350304f43d1:4af3ad42adae320e01a7a1d188643668",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "/k+AZeZcphF/tMh/8UzUjg",
+                "k": "SvOtQq2uMg4Bp6HRiGQ2aA",
                 "kid": "TqrpFpqXWcG97YNQME9D0Q"
               }
             ],
@@ -7919,18 +7886,33 @@
       },
       "manifest_type": "MPEG-DASH|DASH|MPD",
       "is_drm_protected": true,
-      "is_kid_in_manifest": true,
+      "is_kid_in_manifest": false,
       "is_hmac_required": true,
       "is_clearkeys_extracted": true,
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "7e98d832cda7523d8bb03bd10e94bba8:530fd7aa89d390b39446df535d8c9e2b",
+          "hex": "1e4da6316734565dae9090ccda3d62d1:b68d261cb4d8612a7bc1583301540e76",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "Uw/XqonTkLOURt9TXYyeKw",
+                "k": "to0mHLTYYSp7wVgzAVQOdg",
+                "kid": "Hk2mMWc0Vl2ukJDM2j1i0Q"
+              }
+            ],
+            "type": "temporary"
+          },
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEB5NpjFnNFZdrpCQzNo9YtE4sPictAY="
+        },
+        {
+          "source": "initialization_segment",
+          "hex": "7e98d832cda7523d8bb03bd10e94bba8:b68d261cb4d8612a7bc1583301540e76",
+          "base64": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "to0mHLTYYSp7wVgzAVQOdg",
                 "kid": "fpjYMs2nUj2LsDvRDpS7qA"
               }
             ],
@@ -8387,47 +8369,14 @@
       ],
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",
       "manifest_url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd",
-      "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000718",
-      "manifest_headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-      },
+      "license_url": null,
+      "manifest_headers": null,
       "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": true,
+      "is_drm_protected": false,
       "is_kid_in_manifest": false,
       "is_hmac_required": true,
-      "is_clearkeys_extracted": true,
-      "clearkeys": [
-        {
-          "source": "media_segment",
-          "hex": "5cdaf973c26e537a8b886f37b863957b:22d3293423b0412cca65bcacd032502d",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "ItMpNCOwQSzKZbys0DJQLQ",
-                "kid": "XNr5c8JuU3qLiG83uGOVew"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFza+XPCblN6i4hvN7hjlXs4lKietAY="
-        },
-        {
-          "source": "initialization_segment",
-          "hex": "26e46a4f63a05f3bbcc14bc8ae8f434c:22d3293423b0412cca65bcacd032502d",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "ItMpNCOwQSzKZbys0DJQLQ",
-                "kid": "JuRqT2OgXzu8wUvIro9DTA"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECbkak9joF87vMFLyK6PQ0w4tJSZswY="
-        }
-      ]
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
     },
     {
       "id": "238",
@@ -8514,27 +8463,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "7f05ddf47a625883ac9f3ad40a30131e:530ae7ed0cf3735aafe43f522bbc544e",
+          "hex": "e6c4768610e25b0b82db5268ad7530f1:be6565df64e20fdcf08014d9aab0d147",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "Uwrn7Qzzc1qv5D9SK7xUTg",
-                "kid": "fwXd9HpiWIOsnzrUCjATHg"
+                "k": "vmVl32TiD9zwgBTZqrDRRw",
+                "kid": "5sR2hhDiWwuC21JorXUw8Q"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEH8F3fR6YliDrJ861AowEx44kKGetAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEObEdoYQ4lsLgttSaK11MPE4wPWetAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "ab2e76efd15c599fa1717c654d91eb7f:530ae7ed0cf3735aafe43f522bbc544e",
+          "hex": "ab2e76efd15c599fa1717c654d91eb7f:be6565df64e20fdcf08014d9aab0d147",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "Uwrn7Qzzc1qv5D9SK7xUTg",
+                "k": "vmVl32TiD9zwgBTZqrDRRw",
                 "kid": "qy5279FcWZ+hcXxlTZHrfw"
               }
             ],
@@ -17128,32 +17077,14 @@
       ],
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVPLHD_Thumbnail-v1/ETVPLHD_Thumbnail.png",
       "manifest_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2103/output/manifest.mpd",
-      "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001472",
-      "manifest_headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-      },
+      "license_url": null,
+      "manifest_headers": null,
       "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": true,
-      "is_kid_in_manifest": true,
+      "is_drm_protected": false,
+      "is_kid_in_manifest": false,
       "is_hmac_required": true,
-      "is_clearkeys_extracted": true,
-      "clearkeys": [
-        {
-          "source": "media_segment",
-          "hex": "d4a17fdb4ad850e39a3ddcadd5496dd3:e429788ddc0778a751b6ae01a8ab389c",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "5Cl4jdwHeKdRtq4BqKs4nA",
-                "kid": "1KF/20rYUOOaPdyt1Ult0w"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAMnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABISENShf9tK2FDjmj3crdVJbdM="
-        }
-      ]
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
     },
     {
       "id": "352",
@@ -17770,32 +17701,14 @@
       ],
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVCINHD_Thumbnail-v1/ETVCINHD_Thumbnail.png",
       "manifest_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2102/output/manifest.mpd",
-      "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001471",
-      "manifest_headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-      },
+      "license_url": null,
+      "manifest_headers": null,
       "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": true,
-      "is_kid_in_manifest": true,
+      "is_drm_protected": false,
+      "is_kid_in_manifest": false,
       "is_hmac_required": true,
-      "is_clearkeys_extracted": true,
-      "clearkeys": [
-        {
-          "source": "media_segment",
-          "hex": "e0efecd49eb7527383e2fc41ae83a4b1:5b66eb14e1c820f09343d7228f0e7560",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "W2brFOHIIPCTQ9cijw51YA",
-                "kid": "4O/s1J63UnOD4vxBroOksQ"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAMnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABISEODv7NSet1Jzg+L8Qa6DpLE="
-        }
-      ]
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
     },
     {
       "id": "128",
