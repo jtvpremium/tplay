@@ -1,6 +1,6 @@
 {
   "total_channels": 707,
-  "last_update": "2024-07-06T04:06:07.322366+00:00",
+  "last_update": "2024-07-06T04:36:09.270415+00:00",
   "channels": [
     {
       "id": "840",
@@ -563,27 +563,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "5b5c424e271b56da9c8eaf83b88905f0:d68492ca6ece912361098ce3ce8d8d59",
+          "hex": "ad6a391cdd2f57f6bfe5226d04a8a938:18b51daf168c9291f2be5242a2800775",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "1oSSym7OkSNhCYzjzo2NWQ",
-                "kid": "W1xCTicbVtqcjq+DuIkF8A"
+                "k": "GLUdrxaMkpHyvlJCooAHdQ",
+                "kid": "rWo5HN0vV/a/5SJtBKipOA"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFtcQk4nG1banI6vg7iJBfA4kPmitAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK1qORzdL1f2v+UibQSoqTg4mIejtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fcf90127045f5edabc5d94a932f5c6fe:d68492ca6ece912361098ce3ce8d8d59",
+          "hex": "fcf90127045f5edabc5d94a932f5c6fe:18b51daf168c9291f2be5242a2800775",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "1oSSym7OkSNhCYzjzo2NWQ",
+                "k": "GLUdrxaMkpHyvlJCooAHdQ",
                 "kid": "/PkBJwRfXtq8XZSpMvXG/g"
               }
             ],
@@ -1554,18 +1554,18 @@
         },
         {
           "source": "initialization_segment",
-          "hex": "9978dc83fa8f5b688d8a341c62246bd5:db884199d30e9e4e7e719b77462e6427",
+          "hex": "1a137991ea9751308bd206552029e596:db884199d30e9e4e7e719b77462e6427",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
                 "k": "24hBmdMOnk5+cZt3Ri5kJw",
-                "kid": "mXjcg/qPW2iNijQcYiRr1Q"
+                "kid": "GhN5keqXUTCL0gZVICnllg"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJl43IP6j1tojYo0HGIka9U4gO+ctAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBoTeZHql1Ewi9IGVSAp5ZY4gISZswY="
         }
       ]
     },
