@@ -1,6 +1,6 @@
 {
   "total_channels": 707,
-  "last_update": "2024-07-07T17:06:51.294632+00:00",
+  "last_update": "2024-07-07T17:20:40.582013+00:00",
   "channels": [
     {
       "id": "840",
@@ -563,27 +563,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "c5fe788019c957799695888550010232:cfdc6914cbd6e6ae485d49f5e080abb5",
+          "hex": "01599140043b50b99cb26307f0fecadf:89f1deee452633120f672d9fba6ac223",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "z9xpFMvW5q5IXUn14ICrtQ",
-                "kid": "xf54gBnJV3mWlYiFUAECMg"
+                "k": "ifHe7kUmMxIPZy2fumrCIw",
+                "kid": "AVmRQAQ7ULmcsmMH8P7K3w"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMX+eIAZyVd5lpWIhVABAjI44ImrtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAFZkUAEO1C5nLJjB/D+yt846JertAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fcf90127045f5edabc5d94a932f5c6fe:cfdc6914cbd6e6ae485d49f5e080abb5",
+          "hex": "fcf90127045f5edabc5d94a932f5c6fe:89f1deee452633120f672d9fba6ac223",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "z9xpFMvW5q5IXUn14ICrtQ",
+                "k": "ifHe7kUmMxIPZy2fumrCIw",
                 "kid": "/PkBJwRfXtq8XZSpMvXG/g"
               }
             ],
@@ -25164,14 +25164,32 @@
       ],
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png",
       "manifest_url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd",
-      "license_url": null,
-      "manifest_headers": null,
+      "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000582",
+      "manifest_headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+      },
       "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": false,
-      "is_kid_in_manifest": false,
+      "is_drm_protected": true,
+      "is_kid_in_manifest": true,
       "is_hmac_required": true,
-      "is_clearkeys_extracted": false,
-      "clearkeys": null
+      "is_clearkeys_extracted": true,
+      "clearkeys": [
+        {
+          "source": "media_segment",
+          "hex": "ca8889ad902e526ca88b8d2c6305bde8:aae75c4c13363dff46b90a4ba59efe4b",
+          "base64": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "qudcTBM2Pf9GuQpLpZ7+Sw",
+                "kid": "yoiJrZAuUmyoi40sYwW96A"
+              }
+            ],
+            "type": "temporary"
+          },
+          "pssh": "AAAAMnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABISEMqIia2QLlJsqIuNLGMFveg="
+        }
+      ]
     },
     {
       "id": "178",
