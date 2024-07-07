@@ -1,6 +1,6 @@
 {
   "total_channels": 708,
-  "last_update": "2024-07-07T13:07:02.488311+00:00",
+  "last_update": "2024-07-07T13:21:41.876284+00:00",
   "channels": [
     {
       "id": "840",
@@ -563,27 +563,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "1f7def9217a25e108d9375e1e8f7189a:5dc73ab94c55def61111217a7efaa587",
+          "hex": "a61fbb01c11a57aab85bba29daccba82:87206369c3a2355f6c92d0bf9b1b91d8",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "Xcc6uUxV3vYRESF6fvqlhw",
-                "kid": "H33vkheiXhCNk3Xh6PcYmg"
+                "k": "hyBjacOiNV9sktC/mxuR2A",
+                "kid": "ph+7AcEaV6q4W7op2sy6gg"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEB9975IXol4QjZN14ej3GJo4oJmqtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKYfuwHBGlequFu6KdrMuoI4qKeqtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fcf90127045f5edabc5d94a932f5c6fe:5dc73ab94c55def61111217a7efaa587",
+          "hex": "fcf90127045f5edabc5d94a932f5c6fe:87206369c3a2355f6c92d0bf9b1b91d8",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "Xcc6uUxV3vYRESF6fvqlhw",
+                "k": "hyBjacOiNV9sktC/mxuR2A",
                 "kid": "/PkBJwRfXtq8XZSpMvXG/g"
               }
             ],
@@ -13315,18 +13315,18 @@
         },
         {
           "source": "initialization_segment",
-          "hex": "dbf442d9e6735efa891097b809b7e2c5:cf24cbd6be2469f92d9f69d513b11973",
+          "hex": "eff67e9438e0568b8e9cc2acba3c5a1c:cf24cbd6be2469f92d9f69d513b11973",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
                 "k": "zyTL1r4kafktn2nVE7EZcw",
-                "kid": "2/RC2eZzXvqJEJe4CbfixQ"
+                "kid": "7/Z+lDjgVouOnMKsujxaHA"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENv0Qtnmc176iRCXuAm34sU4gKjYswY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEO/2fpQ44FaLjpzCrLo8Whw4gISZswY="
         }
       ]
     },
@@ -29121,7 +29121,7 @@
       "manifest_headers": null,
       "manifest_type": "MPEG-DASH|DASH|MPD",
       "is_drm_protected": false,
-      "is_kid_in_manifest": true,
+      "is_kid_in_manifest": false,
       "is_hmac_required": false,
       "is_clearkeys_extracted": false,
       "clearkeys": null
