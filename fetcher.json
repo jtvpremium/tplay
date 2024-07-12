@@ -1,6 +1,6 @@
 {
   "total_channels": 707,
-  "last_update": "2024-07-12T05:09:46.372999+00:00",
+  "last_update": "2024-07-12T05:24:33.804058+00:00",
   "channels": [
     {
       "id": "840",
@@ -563,27 +563,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "389f76e151225a4ea07986419d19cb63:c7acfa14d124626e7e606226656ae42c",
+          "hex": "21a501b500b455698bcbbe1262b0c27c:82f0e74b56e7350e7f88195a1d2f7ee6",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "x6z6FNEkYm5+YGImZWrkLA",
-                "kid": "OJ924VEiWk6geYZBnRnLYw"
+                "k": "gvDnS1bnNQ5/iBlaHS9+5g",
+                "kid": "IaUBtQC0VWmLy74SYrDCfA"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDifduFRIlpOoHmGQZ0Zy2M4oOfCtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECGlAbUAtFVpi8u+EmKwwnw4qPXCtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fcf90127045f5edabc5d94a932f5c6fe:c7acfa14d124626e7e606226656ae42c",
+          "hex": "fcf90127045f5edabc5d94a932f5c6fe:82f0e74b56e7350e7f88195a1d2f7ee6",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "x6z6FNEkYm5+YGImZWrkLA",
+                "k": "gvDnS1bnNQ5/iBlaHS9+5g",
                 "kid": "/PkBJwRfXtq8XZSpMvXG/g"
               }
             ],
