@@ -1,6 +1,6 @@
 {
   "total_channels": 714,
-  "last_update": "2024-07-18T02:10:01.707196+00:00",
+  "last_update": "2024-07-18T02:39:42.806787+00:00",
   "channels": [
     {
       "id": "840",
@@ -563,27 +563,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "9f855ba022ad50fe9c4d127db5187439:648488ee41d97ff7251ca3c15642fefa",
+          "hex": "440b9ef6e3ef525ca6c406e5bd61abbe:e32bb1610f48c9cbc58a748e8782baa0",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "ZISI7kHZf/clHKPBVkL++g",
-                "kid": "n4VboCKtUP6cTRJ9tRh0OQ"
+                "k": "4yuxYQ9IycvFinSOh4K6oA",
+                "kid": "RAue9uPvUlymxAblvWGrvg"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJ+FW6AirVD+nE0SfbUYdDk48OThtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEQLnvbj71JcpsQG5b1hq744+PLhtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fcf90127045f5edabc5d94a932f5c6fe:648488ee41d97ff7251ca3c15642fefa",
+          "hex": "fcf90127045f5edabc5d94a932f5c6fe:e32bb1610f48c9cbc58a748e8782baa0",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "ZISI7kHZf/clHKPBVkL++g",
+                "k": "4yuxYQ9IycvFinSOh4K6oA",
                 "kid": "/PkBJwRfXtq8XZSpMvXG/g"
               }
             ],
@@ -4743,27 +4743,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "b5a3fcb948bc5ee38d1a29932599fb2b:2bcc8824bc91f2f0f13d97e8da78c2a1",
+          "hex": "d724c3f647ee5c008eb4f989ebfee16a:1affe760682ac700134ffa83c8ccfc10",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "K8yIJLyR8vDxPZfo2njCoQ",
-                "kid": "taP8uUi8XuONGimTJZn7Kw"
+                "k": "Gv/nYGgqxwATT/qDyMz8EA",
+                "kid": "1yTD9kfuXACOtPmJ6/7hag"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELWj/LlIvF7jjRopkyWZ+ys47N3htAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENckw/ZH7lwAjrT5iev+4Wo4/PnhtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "fd0a9a1ee8755a3c982c2949f803dc51:2bcc8824bc91f2f0f13d97e8da78c2a1",
+          "hex": "fd0a9a1ee8755a3c982c2949f803dc51:1affe760682ac700134ffa83c8ccfc10",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "K8yIJLyR8vDxPZfo2njCoQ",
+                "k": "Gv/nYGgqxwATT/qDyMz8EA",
                 "kid": "/QqaHuh1WjyYLClJ+APcUQ"
               }
             ],
@@ -4817,27 +4817,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "bcce6d6b76d2580c9c781d96027279a9:f0b0ca440264908ffc9ca7919b3645fb",
+          "hex": "081a20101a3152a5a3479aadf9fcdae5:e33ae7c5c6a7110e3dde125d90800d00",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "8LDKRAJkkI/8nKeRmzZF+w",
-                "kid": "vM5ta3bSWAyceB2WAnJ5qQ"
+                "k": "4zrnxcanEQ493hJdkIANAA",
+                "kid": "CBogEBoxUqWjR5qt+fza5Q"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELzObWt20lgMnHgdlgJyeak47N3htAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAgaIBAaMVKlo0earfn82uU4/PnhtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "55242b3d990c52fe95fa2ae2577469c4:f0b0ca440264908ffc9ca7919b3645fb",
+          "hex": "55242b3d990c52fe95fa2ae2577469c4:e33ae7c5c6a7110e3dde125d90800d00",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "8LDKRAJkkI/8nKeRmzZF+w",
+                "k": "4zrnxcanEQ493hJdkIANAA",
                 "kid": "VSQrPZkMUv6V+iriV3RpxA"
               }
             ],
@@ -4892,33 +4892,33 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "7af255fd5f20548b88fda5a4d01451db:d25a10680e86cf384793c73cef706391",
+          "hex": "c7f1d7d7b2535ad0ac752082a2b02000:1487ecbd2edaaeafca3914fd07891d65",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "0loQaA6GzzhHk8c873BjkQ",
-                "kid": "evJV/V8gVIuI/aWk0BRR2w"
+                "k": "FIfsvS7arq/KORT9B4kdZQ",
+                "kid": "x/HX17JTWtCsdSCCorAgAA"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHryVf1fIFSLiP2lpNAUUds47N3htAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMfx19eyU1rQrHUggqKwIAA4/PnhtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "56237b91007b543baea15702d1efbd5b:d25a10680e86cf384793c73cef706391",
+          "hex": "a0e51483d4f25b728f50c3c7b96b014c:1487ecbd2edaaeafca3914fd07891d65",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "0loQaA6GzzhHk8c873BjkQ",
-                "kid": "ViN7kQB7VDuuoVcC0e+9Ww"
+                "k": "FIfsvS7arq/KORT9B4kdZQ",
+                "kid": "oOUUg9TyW3KPUMPHuWsBTA"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFYje5EAe1Q7rqFXAtHvvVs4/JTZtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKDlFIPU8ltyj1DDx7lrAUw4vKTYtAY="
         }
       ]
     },
@@ -4966,27 +4966,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "132919925b5a531382645fc009275a39:03fe200801ef772d2429663bfc0adfa4",
+          "hex": "4992a7c9f99b50abbb2a709a6634d387:d2bf4d3d2e5448250bfbd3fda51622ad",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "A/4gCAHvdy0kKWY7/ArfpA",
-                "kid": "EykZkltaUxOCZF/ACSdaOQ"
+                "k": "0r9NPS5USCUL+9P9pRYirQ",
+                "kid": "SZKnyfmbUKu7KnCaZjTThw"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBMpGZJbWlMTgmRfwAknWjk47N3htAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEmSp8n5m1CruypwmmY004c4/PnhtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "11ef07f6fa3459bf838ddbea33783d01:03fe200801ef772d2429663bfc0adfa4",
+          "hex": "11ef07f6fa3459bf838ddbea33783d01:d2bf4d3d2e5448250bfbd3fda51622ad",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "A/4gCAHvdy0kKWY7/ArfpA",
+                "k": "0r9NPS5USCUL+9P9pRYirQ",
                 "kid": "Ee8H9vo0Wb+DjdvqM3g9AQ"
               }
             ],
@@ -7196,18 +7196,18 @@
         },
         {
           "source": "initialization_segment",
-          "hex": "7c8f0ea2cd3b5c98838d87b5ffa0a1b7:3099e1549522f3cf4388e9f5e9608949",
+          "hex": "58a1bb038e4a5f3fbce01d8031e7f17d:3099e1549522f3cf4388e9f5e9608949",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
                 "k": "MJnhVJUi889DiOn16WCJSQ",
-                "kid": "fI8Oos07XJiDjYe1/6Chtw"
+                "kid": "WKG7A45KXz+84B2AMefxfQ"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHyPDqLNO1yYg42Htf+gobc4sLyzswY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFihuwOOSl8/vOAdgDHn8X04sI2ZswY="
         }
       ]
     },
@@ -7605,18 +7605,18 @@
         },
         {
           "source": "initialization_segment",
-          "hex": "b980ba730c405cd2a550430d374b0184:a6d2bd1e2410bbc051d42ae9347d634d",
+          "hex": "17633074e84b5cb18d10a98f4d2213df:a6d2bd1e2410bbc051d42ae9347d634d",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
                 "k": "ptK9HiQQu8BR1CrpNH1jTQ",
-                "kid": "uYC6cwxAXNKlUEMNN0sBhA"
+                "kid": "F2MwdOhLXLGNEKmPTSIT3w"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELmAunMMQFzSpVBDDTdLAYQ4iPuoswY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBdjMHToS1yxjRCpj00iE984iJKZswY="
         }
       ]
     },
@@ -8297,47 +8297,14 @@
       ],
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",
       "manifest_url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
-      "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000614",
-      "manifest_headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-      },
+      "license_url": null,
+      "manifest_headers": null,
       "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": true,
+      "is_drm_protected": false,
       "is_kid_in_manifest": false,
       "is_hmac_required": true,
-      "is_clearkeys_extracted": true,
-      "clearkeys": [
-        {
-          "source": "media_segment",
-          "hex": "d86123465a4c51728adc9dd66f598ce6:d821e02c8ee104f319eefeca36db63f1",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "2CHgLI7hBPMZ7v7KNttj8Q",
-                "kid": "2GEjRlpMUXKK3J3Wb1mM5g"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENhhI0ZaTFFyityd1m9ZjOY4tMbhtAY="
-        },
-        {
-          "source": "initialization_segment",
-          "hex": "cbe61a6cd65553bda175032d7021136d:d821e02c8ee104f319eefeca36db63f1",
-          "base64": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "2CHgLI7hBPMZ7v7KNttj8Q",
-                "kid": "y+YabNZVU72hdQMtcCETbQ"
-              }
-            ],
-            "type": "temporary"
-          },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMvmGmzWVVO9oXUDLXAhE204tJSZswY="
-        }
-      ]
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
     },
     {
       "id": "114",
@@ -15126,27 +15093,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "adb34dae07625042bd975a9f04eaa8d3:47405d3700ae592787f17154b86b2866",
+          "hex": "77600adfe14354308869dd90c62560c8:c27785c4e2ff7d696482b3b35d5958c4",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "R0BdNwCuWSeH8XFUuGsoZg",
-                "kid": "rbNNrgdiUEK9l1qfBOqo0w"
+                "k": "wneFxOL/fWlkgrOzXVlYxA",
+                "kid": "d2AK3+FDVDCIad2QxiVgyA"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK2zTa4HYlBCvZdanwTqqNM4wNvhtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHdgCt/hQ1QwiGndkMYlYMg40PfhtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "be5dfbea9ad85cef94f311475089c36e:47405d3700ae592787f17154b86b2866",
+          "hex": "be5dfbea9ad85cef94f311475089c36e:c27785c4e2ff7d696482b3b35d5958c4",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "R0BdNwCuWSeH8XFUuGsoZg",
+                "k": "wneFxOL/fWlkgrOzXVlYxA",
                 "kid": "vl376prYXO+U8xFHUInDbg"
               }
             ],
@@ -16035,27 +16002,27 @@
       "clearkeys": [
         {
           "source": "media_segment",
-          "hex": "e2820195ca7e57d2972103a2ec8763b7:a164d37730a3213cbe1762c190f71026",
+          "hex": "e7b0312f752e5b3f85fea71afc8d39c1:6f239249321a8e1a453390f0fe8f96cd",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "oWTTdzCjITy+F2LBkPcQJg",
-                "kid": "4oIBlcp+V9KXIQOi7Idjtw"
+                "k": "byOSSTIajhpFM5Dw/o+WzQ",
+                "kid": "57AxL3UuWz+F/qca/I05wQ"
               }
             ],
             "type": "temporary"
           },
-          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOKCAZXKflfSlyEDouyHY7c4wNvhtAY="
+          "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOewMS91Lls/hf6nGvyNOcE40PfhtAY="
         },
         {
           "source": "initialization_segment",
-          "hex": "f23c9a151a15570bb21771e45cdf38b5:a164d37730a3213cbe1762c190f71026",
+          "hex": "f23c9a151a15570bb21771e45cdf38b5:6f239249321a8e1a453390f0fe8f96cd",
           "base64": {
             "keys": [
               {
                 "kty": "oct",
-                "k": "oWTTdzCjITy+F2LBkPcQJg",
+                "k": "byOSSTIajhpFM5Dw/o+WzQ",
                 "kid": "8jyaFRoVVwuyF3HkXN84tQ"
               }
             ],
