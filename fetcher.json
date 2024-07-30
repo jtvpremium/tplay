@@ -1,6 +1,6 @@
 {
   "total_channels": 720,
-  "last_update": "2024-07-30T05:14:14.168862+00:00",
+  "last_update": "2024-07-30T06:09:06.163411+00:00",
   "channels": [
     {
       "id": "840",
@@ -3080,26 +3080,6 @@
       "clearkeys": null
     },
     {
-      "id": "278",
-      "name": "Good News Today",
-      "genres": [
-        "News"
-      ],
-      "languages": [
-        "Hindi"
-      ],
-      "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png",
-      "manifest_url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd",
-      "license_url": null,
-      "manifest_headers": null,
-      "manifest_type": "MPEG-DASH|DASH|MPD",
-      "is_drm_protected": false,
-      "is_kid_in_manifest": true,
-      "is_hmac_required": true,
-      "is_clearkeys_extracted": false,
-      "clearkeys": null
-    },
-    {
       "id": "260",
       "name": "Zee Business",
       "genres": [
@@ -3116,6 +3096,26 @@
       "manifest_type": "MPEG-DASH|DASH|MPD",
       "is_drm_protected": false,
       "is_kid_in_manifest": false,
+      "is_hmac_required": true,
+      "is_clearkeys_extracted": false,
+      "clearkeys": null
+    },
+    {
+      "id": "278",
+      "name": "Good News Today",
+      "genres": [
+        "News"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png",
+      "manifest_url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd",
+      "license_url": null,
+      "manifest_headers": null,
+      "manifest_type": "MPEG-DASH|DASH|MPD",
+      "is_drm_protected": false,
+      "is_kid_in_manifest": true,
       "is_hmac_required": true,
       "is_clearkeys_extracted": false,
       "clearkeys": null
